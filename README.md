@@ -1,7 +1,10 @@
 ## Olá! meu nome é Henrique 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-silvieri&count_private=true&show_icons=true&theme=tokyonight)         
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-silvieri&layout=compact&theme=tokyonight)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-silvieri&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-silvieri&layout=compact&theme=tokyonight"/>
+</div>
+
 <br><br>
 
 ## Links para contato!  ↴
